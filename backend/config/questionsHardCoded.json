@@ -1,0 +1,131 @@
+[
+    {
+        "question": "Where is Cairo?",
+        "answers": [
+            {
+                "answer": "Egypt",
+                "correct": true
+            },
+            {"answer": "Sudan"},
+            {"answer": "USA"},
+            {"answer": "KSA"}
+        ]
+    },
+
+    {
+        "question": "How many hours in a day?",
+        "answers": [
+            {
+                "answer": "24hr",
+                "correct": true
+            },
+            {"answer": "15hr"},
+            {"answer": "72hr"},
+            {"answer": "10hr"}
+        ]
+    },
+
+    {
+        "question": "How many days in a week?",
+        "answers": [
+            {
+                "answer": "7 days",
+                "correct": true
+            },
+            {"answer": "14 days"},
+            {"answer": "24 days"},
+            {"answer": "6 days"}
+        ]
+    },
+
+    {
+        "question": "When sun arise?",
+        "answers": [
+            {
+                "answer": "morning",
+                "correct": true
+            },
+            {"answer": "afternoon"},
+            {"answer": "night"},
+            {"answer": "evening"}
+        ]
+    },
+
+    {
+        "question": "How many 5 dollars in 100 dollars?",
+        "answers": [
+            {
+                "answer": "20 dollars",
+                "correct": true
+            },
+            {"answer": "10 dollars"},
+            {"answer": "5 dollars"},
+            {"answer": "100 dollars"}
+        ]
+    },
+
+    {
+        "question": "How many years of president period in USA?",
+        "answers": [
+            {
+                "answer": "4 years",
+                "correct": true
+            },
+            {"answer": "7 years"},
+            {"answer": "5 years"},
+            {"answer": "2 years"}
+        ]
+    },
+
+    {
+        "question": "How many great pyramids in Giza?",
+        "answers": [
+            {
+                "answer": "3 pyramids",
+                "correct": true
+            },
+            {"answer": "5  pyramids"},
+            {"answer": "4  pyramids"},
+            {"answer": "2  pyramids"}
+        ]
+    },
+
+    {
+        "question": "Where was Mohamed-Taher born?",
+        "answers": [
+            {
+                "answer": "Mansura",
+                "correct": true
+            },
+            {"answer": "Cairo"},
+            {"answer": "Tanta"},
+            {"answer": "Aswan"}
+        ]
+    },
+
+    {
+        "question": "What is the owner of galaxy pro. cell phone?",
+        "answers": [
+            {
+                "answer": "Samsung",
+                "correct": true
+            },
+            {"answer": "Apple"},
+            {"answer": "Microsoft"},
+            {"answer": "Google"}
+        ]
+    },
+
+    {
+        "question": "Who was the CEO of Amazon enc.?",
+        "answers": [
+            {
+                "answer": "Jeff Bezoth",
+                "correct": true
+            },
+            {"answer": "Mark Zokkerberg"},
+            {"answer": "Boll Alien"},
+            {"answer": "Steven Jopps"}
+        ]
+    }
+]

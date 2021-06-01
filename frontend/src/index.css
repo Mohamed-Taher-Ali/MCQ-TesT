@@ -1,0 +1,98 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+html, body, .App, #root {
+  height: 100%;
+  width: 100%;
+}
+
+
+.full {
+  width: 100%;
+  height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.panel-header {
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.flex-end {
+  position: relative;
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.text-mid {
+  margin: 5px 0px;
+  font-size: 16px;
+}
+
+.shft {
+  margin: 3px 20px;
+}
+
+.cont3 {
+  margin: 10px;
+  display: block;
+}
+
+.cont4 {
+  margin: 8px 0px;
+  background-color: #f3f3f3;
+  padding: 10px;
+  border-radius: 5px;
+  
+}
+
+
+.btn-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.ans-btn {
+  background-color: #d2d2d2;
+  width: 50%;
+  margin: 10px;
+  border-radius: 15px;
+  height: 40px;
+  font-size: 22px;
+}
+
+.q-txt {
+  width: 80%;
+  text-align: center;
+  font-size: 40px;
+  border: 1px solid rgb(212, 212, 212);
+  border-radius: 23px;
+  padding: 20px;
+  color: whitesmoke;
+  font-weight: 600;
+}
+
+.q-body {
+  height: 340px;
+  background: rgb(54, 77, 121);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
